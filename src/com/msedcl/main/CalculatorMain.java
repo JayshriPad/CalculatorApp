@@ -9,6 +9,7 @@ public class CalculatorMain {
 		CalculationUtil calculationUtil=new CalculationUtil();
 		System.out.println("Addition :"+calculationUtil.addition(20, 30));
 		System.out.println("substration :"+calculationUtil.substraction(20, 12));
+		System.out.println("multiplication :"+calculationUtil.multiplication(20, 12));
 	}
 
 }
